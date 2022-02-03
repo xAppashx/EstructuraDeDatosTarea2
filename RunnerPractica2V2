@@ -1,0 +1,5 @@
+import cProfile
+
+import Practica_2V2
+
+cProfile.run('Practica_2V2. IngresoItems()')
